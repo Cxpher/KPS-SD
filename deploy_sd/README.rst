@@ -19,11 +19,12 @@ Domains page.
 
 Creating and deploying a KPS Service Domain
 -------------------------------------------
-
+|
 1. Log on as an administrator to your cluster's web console through the
    Chrome web browser.
 2. Click Home > VM, then click Create VM.
 
+|
 .. figure:: img/edge-vm-create1.png
    :alt: VM create 01
    
