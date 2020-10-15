@@ -152,3 +152,5 @@ For an example of how to use existing environment variables for a Service Domain
 |
 
 13. Click **Add**
+
+**Note: It takes between approx. 15-20 mins for the Service Domain to be fully registered and showing 'Healthy' status** 
