@@ -96,13 +96,11 @@ Registering the KPS Service Domain with KPS Cloud Management Portal (CMP)
 
 2. Click Infrastructure > Service Domains > + Service Domain.
 
-3. Name your Service Domain::
+3. Name your Service Domain
 
-Starts and ends with a lowercase alphanumeric character
-
-Maximum length of 63 lowercase alphanumeric characters
-
-Dash (-) and dot (.) characters are allowed. For example, my-servicedomain.contoso.com is a valid Service Domain name
+  * Starts and ends with a lowercase alphanumeric character
+  * Maximum length of 63 lowercase alphanumeric characters
+  * Dash (-) and dot (.) characters are allowed. For example, my-servicedomain.contoso.com is a valid Service Domain name
 
 4.Select Single Node to create a single-node Service Domain
   * You cannot expand this Service Domain later by adding nodes
