@@ -47,6 +47,7 @@ everything that is displayed here.
 You might require more memory and storage as determined by your applications.
 
 |
+
   * Name: Enter a name for the VM.
   * Description (optional): Enter a description for the VM.
   * Use this VM as an agent VM: Do not select. Not used in this case.
