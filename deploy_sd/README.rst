@@ -24,6 +24,12 @@ Creating and deploying a KPS Service Domain
    Chrome web browser.
 2. Click Home > VM, then click Create VM.
 
+.. figure:: img/edge-vm-create1.png
+   :alt: VM create 01
+
+   Woodkraft App!
+Application Deployment
+
 The Create VM dialog box appears. You might need to scroll down to see
 everything that is displayed here.
 
