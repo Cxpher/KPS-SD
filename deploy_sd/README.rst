@@ -87,6 +87,17 @@ The VM creation task progress appears in Tasks at the top of the web console::
 
 9. If you are creating a multinode Service Domain, repeat these steps to create at least two more VMs for a minimum of three VMs. The additional VMs you create here can become nodes in a multinode Service Domain cluster, or remain unclustered individual/single node Service Domains.
 
+|
+
+--------------
+
+Creating and deploying a KPS Service Domain
+-------------------------------------------
+|
+
+
+
+
 This tutorial will guide you through the deployment and update of a
 sample Kubernetes Application using KPS. The application is deployed to
 a KPS Service Domain for execution. This tutorial assumes your Service
