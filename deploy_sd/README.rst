@@ -26,8 +26,12 @@ Creating and deploying a KPS Service Domain
 
 .. figure:: img/edge-vm-create1.png
    :alt: VM create 01
-   
-   Figure. Create VM Dialog Box 1
+      
+.. figure:: img/edge-vm-create2.png
+   :alt: VM create 02   
+
+.. figure:: img/edge-vm-create3.png
+   :alt: VM create 03   
 
 The 'Create VM' dialog box appears. You might need to scroll down to see
 everything that is displayed here.
