@@ -67,6 +67,12 @@ everything that is displayed here.
   * Select the Image you uploaded in Uploading the Service Domain Image
   * Keep the default Index selection
   * Click Add
+  
+|  
+5. Click Add New Nic to assign the VM network interface to a vlan, then click Add.
+6. Select Legacy BIOS to start the VM using legacy BIOS firmware. This choice is selected by default on AHV clusters supporting legacy or UEFI boot firmware.
+
+
 This tutorial will guide you through the deployment and update of a
 sample Kubernetes Application using KPS. The application is deployed to
 a KPS Service Domain for execution. This tutorial assumes your Service
