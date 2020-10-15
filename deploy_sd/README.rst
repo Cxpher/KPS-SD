@@ -45,13 +45,28 @@ everything that is displayed here.
 
 3. Do the following in the indicated fields. You might require more memory and storage as determined by your applications.
    
-  * Name: Enter a name for the VM.
-  * Description (optional): Enter a description for the VM.
-  * Use this VM as an agent VM: Do not select. Not used in this case.
-  * vCPU(s): Enter the number of virtual CPUs to allocate to this VM. For Karbon Platform Services, enter 8.
-  * Number of Cores per vCPU: Enter the number of cores assigned to each virtual CPU. For Karbon Platform Services, enter 1.
-  * Memory: Enter the amount of memory (in GiBs) to allocate to this VM. For Karbon Platform Services, enter 16.
+  * Name: Enter a name for the VM
+  * Description (optional): Enter a description for the VM
+  * Use this VM as an agent VM: Do not select. Not used in this case
+  * vCPU(s): Enter the number of virtual CPUs to allocate to this VM. For Karbon Platform Services, enter 8
+  * Number of Cores per vCPU: Enter the number of cores assigned to each virtual CPU. For Karbon Platform Services, enter 1
+  * Memory: Enter the amount of memory (in GiBs) to allocate to this VM. For Karbon Platform Services, enter 16
 
+4. Click Add Disk to add the uploaded Karbon Platform Services image file.
+
+|    
+.. figure:: img/edge-vm-create2.png
+   :alt: VM create 02   
+
+   **Figure. Add Disk Dialog**
+|
+
+  * Select Type > DISK
+  * Select Operation > Clone from Image Service
+  * Select Bus Type > SCSI
+  * Select the Image you uploaded in Uploading the Service Domain Image
+  * Keep the default Index selection
+  * Click Add
 This tutorial will guide you through the deployment and update of a
 sample Kubernetes Application using KPS. The application is deployed to
 a KPS Service Domain for execution. This tutorial assumes your Service
