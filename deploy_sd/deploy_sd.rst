@@ -146,4 +146,9 @@ For an example of how to use existing environment variables for a Service Domain
 12. To provide limited secure shell (SSH) administrator access to your service domain to manage Kubernetes pods. select Enable SSH Access
   * SSH Service Domain access enables you to run Kubernetes kubectl commands to help you with application development, debugging, and pod troubleshooting
 
+|
+.. figure:: img/kpsaddsd02.png
+   :alt: Add SD 02   
+|
+
 13. Click **Add**
