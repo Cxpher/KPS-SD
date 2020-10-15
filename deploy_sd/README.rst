@@ -102,7 +102,7 @@ Registering the KPS Service Domain with KPS Cloud Management Portal (CMP)
   * Maximum length of 63 lowercase alphanumeric characters
   * Dash (-) and dot (.) characters are allowed. For example, my-servicedomain.contoso.com is a valid Service Domain name
 
-4.Select Single Node to create a single-node Service Domain
+4. Select Single Node to create a single-node Service Domain
   * You cannot expand this Service Domain later by adding nodes
 
 
