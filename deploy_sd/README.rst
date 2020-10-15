@@ -92,6 +92,11 @@ The VM creation task progress appears in Tasks at the top of the web console::
 Registering the KPS Service Domain with KPS Cloud Management Portal (CMP)
 -------------------------------------------
 |
+1. Log on to the cloud management console at https://karbon.nutanix.com/.
+
+2. Click Infrastructure > Service Domains > + Service Domain.
+
+3. Name your Service Domain.
 
 
 
