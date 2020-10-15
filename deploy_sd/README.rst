@@ -27,10 +27,7 @@ Creating and deploying a KPS Service Domain
 .. figure:: img/edge-vm-create1.png
    :alt: VM create 01
 
-   Woodkraft App!
-Application Deployment
-
-The Create VM dialog box appears. You might need to scroll down to see
+The 'Create VM' dialog box appears. You might need to scroll down to see
 everything that is displayed here.
 
 This tutorial will guide you through the deployment and update of a
