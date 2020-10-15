@@ -72,7 +72,7 @@ everything that is displayed here.
 5. Click Add New Nic to assign the VM network interface to a vlan, then click Add.
 6. Select Legacy BIOS to start the VM using legacy BIOS firmware. This choice is selected by default on AHV clusters supporting legacy or UEFI boot firmware.
 7. Click Save.
-The VM creation task progress appears in Tasks at the top of the web console.::
+The VM creation task progress appears in Tasks at the top of the web console.:
 
       Note: You might require more storage as determined by your applications. Before first power on of the Service Domain VM, you can increase (but not decrease) the VM disk size.
       When the VM creation task is completed (the VM is created successfully), select the new Service Domain VM in the Table view, scroll to the bottom of the VM page, and click Update.
