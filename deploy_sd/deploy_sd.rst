@@ -35,11 +35,6 @@ Creating and deploying a KPS Service Domain
 
    **Figure. Create VM Dialog Box 2**
 |
-.. figure:: img/edge-vm-create3.png
-   :alt: VM create 03   
-   
-   **Figure. Create VM Dialog Box 3**
-|
 The 'Create VM' dialog box appears. You might need to scroll down to see
 everything that is displayed here.
 
@@ -67,8 +62,14 @@ everything that is displayed here.
   * Select the Image you uploaded in Uploading the Service Domain Image
   * Keep the default Index selection
   * Click Add
-  
-|  
+
+|
+.. figure:: img/edge-vm-create3.png
+   :alt: VM create 03   
+   
+   **Figure. Create VM Dialog Box 3**
+|
+
 5. Click Add New Nic to assign the VM network interface to a vlan, then click Add.
 6. Select Legacy BIOS to start the VM using legacy BIOS firmware. This choice is selected by default on AHV clusters supporting legacy or UEFI boot firmware.
 7. Click Save.
