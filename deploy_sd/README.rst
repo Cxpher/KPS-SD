@@ -72,13 +72,19 @@ everything that is displayed here.
 5. Click Add New Nic to assign the VM network interface to a vlan, then click Add.
 6. Select Legacy BIOS to start the VM using legacy BIOS firmware. This choice is selected by default on AHV clusters supporting legacy or UEFI boot firmware.
 7. Click Save.
+
 The VM creation task progress appears in Tasks at the top of the web console::
 
       Note: You might require more storage as determined by your applications. Before first power on of the Service Domain VM, you can increase (but not decrease) the VM disk size.
-      |
+      
       When the VM creation task is completed (the VM is created successfully), select the new Service Domain VM in the Table view, scroll to the bottom of the VM page, and click Update.
-      |
+      
       Scroll to the disk, click the pencil icon to edit the disk, and increase the disk Size, then click Update and Save.
+
+8. When the VM creation task is completed (the VM is created successfully), select the new Service Domain VM in the Table view, scroll to the bottom of the VM page, and Power On the VM.
+
+Note the VM IP address and ID in the VM Details panel. You will need this information to add your Service Domain in the Karbon Platform Services management console Service Domains page.
+
 
 This tutorial will guide you through the deployment and update of a
 sample Kubernetes Application using KPS. The application is deployed to
