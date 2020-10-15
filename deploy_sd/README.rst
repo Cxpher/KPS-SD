@@ -24,6 +24,7 @@ Creating and deploying a KPS Service Domain
    Chrome web browser.
 2. Click Home > VM, then click Create VM.
 |
+
 .. figure:: img/edge-vm-create1.png
    :alt: VM create 01
    
