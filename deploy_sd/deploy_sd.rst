@@ -118,6 +118,11 @@ Registering the KPS Service Domain with KPS Cloud Management Portal (CMP)
   d. Subnet Mask and Gateway. Type the subnet mask and gateway IP address in these fields
   e. Click the check mark icon. To change the details, hover over the ellipses menu and click Edit
 
+|
+.. figure:: img/kpsaddsd01.png
+   :alt: Add SD 01   
+|
+
 7. Click Add Category 
 
 8. See Creating a Category. You can create one or more categories to add them to a Service Domain
@@ -141,4 +146,11 @@ For an example of how to use existing environment variables for a Service Domain
 12. To provide limited secure shell (SSH) administrator access to your service domain to manage Kubernetes pods. select Enable SSH Access
   * SSH Service Domain access enables you to run Kubernetes kubectl commands to help you with application development, debugging, and pod troubleshooting
 
+|
+.. figure:: img/kpsaddsd02.png
+   :alt: Add SD 02   
+|
+
 13. Click **Add**
+
+**Note: It takes between approx. 15-20 mins for the Service Domain to be fully registered and showing 'Healthy' status** 
