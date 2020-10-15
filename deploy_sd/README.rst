@@ -120,7 +120,20 @@ Registering the KPS Service Domain with KPS Cloud Management Portal (CMP)
   * Select a category and its associated value
   * Click Add to select another category and value
 
-9. Click Next.
+9. Click Next
+
+10. Enter environment variables as one or more key-value pairs for the service domain. Click Add Key-Value Pair to additional pairs.
+
+You can set environment variables and associated values for each Service Domain as a key-value pair, which are available for use in Kubernetes apps.
+
+For example, you could set a secret variable key named SD_PASSWORD with a value of passwd1234.
+
+For an example of how to use existing environment variables for a Service Domain in application YAML, see Using Service Domain Environment Variables - Example. See also Configure Service Domain Environment Variables.
+
+11. If your Service Domain includes a GPU/vGPU, choose its usage case.
+  * To allow access by any Kubernetes app or data pipeline, choose Use GPU for Kubernetes Apps and Data Pipelines
+  * To allow access by AI Inferencing API (for example, if you are using ML Models), select Use GPU for AI Inferencing
+
 Enter environment variables as one or more key-value pairs for the service domain. Click Add Key-Value Pair to additional pairs.
 You can set environment variables and associated values for each Service Domain as a key-value pair, which are available for use in Kubernetes apps.
 For example, you could set a secret variable key named SD_PASSWORD with a value of passwd1234.For an example of how to use existing environment variables for a Service Domain in application YAML, see Using Service Domain Environment Variables - Example. See also Configure Service Domain Environment Variables.
