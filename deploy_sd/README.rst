@@ -106,9 +106,9 @@ Registering the KPS Service Domain with KPS Cloud Management Portal (CMP)
   * You cannot expand this Service Domain later by adding nodes
 
 5. Click Add Node and enter the following node details:
-  * Serial Number of your Service Domain node VM.
-    * If a Nutanix AOS cluster hosts your Service Domain node VM: in the cluster Prism web console, open the VM page, select the Service Domain node VM, and note the ID.
-    * You can also display the serial number by opening this URL in a browser. Use your Service Domain node VM IP address: http://service-domain-node-ip-address:8080/v1/sn
+  * Serial Number of your Service Domain node VM
+  * If a Nutanix AOS cluster hosts your Service Domain node VM: in the cluster Prism web console, open the VM page, select the Service Domain node VM, and note the ID
+  * You can also display the serial number by opening this URL in a browser. Use your Service Domain node VM IP address: http://service-domain-node-ip-address:8080/v1/sn
 
 
 This tutorial will guide you through the deployment and update of a
