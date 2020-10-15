@@ -1,10 +1,14 @@
-# Deploy a Service Domain and add it to Karbon Platform Services (KPS)
+Deploy a Service Domain and add it to Karbon Platform Services (KPS)
+=============================================================================
 
 KPS is a Kubernetes based multi-cloud PaaS that enables rapid development and deployment of microservices-based applications ranging from simple stateful containerized applications to complex AI, IoT and hybrid applications across any cloud.
 
 This tutorial will guide you through the deployment of a single node KPS Service Domain on a Nutanix cluster, power it on and register it with the KPS Cloud Management Portal (CMP).
 
 After creating the Service Domain VM, note the VM IP address and ID in the VM Details panel. You will need this information to add your Service Domain in the Karbon Platform Services management console Service Domains page.
+
+----------------------------------
+
 
 ## Creating and deploying a KPS Service Domain
 
