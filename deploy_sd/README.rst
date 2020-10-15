@@ -85,6 +85,7 @@ The VM creation task progress appears in Tasks at the top of the web console::
 
   * Note the VM IP address and ID in the VM Details panel. You will need this information to add your Service Domain in the Karbon Platform Services management console Service Domains page.
 
+9. If you are creating a multinode Service Domain, repeat these steps to create at least two more VMs for a minimum of three VMs. The additional VMs you create here can become nodes in a multinode Service Domain cluster, or remain unclustered individual/single node Service Domains.
 
 This tutorial will guide you through the deployment and update of a
 sample Kubernetes Application using KPS. The application is deployed to
