@@ -1,6 +1,19 @@
-# Deploy a Kubernetes Application on Karbon Platform Services
+# Deploy a Service Domain and add it to Karbon Platform Services (KPS)
 
-Karbon Platform Services (KPS) is a Kubernetes based multi-cloud PaaS that enables rapid development and deployment of microservices-based applications ranging from simple stateful containerized applications to complex AI, IoT and hybrid applications across any cloud.
+KPS is a Kubernetes based multi-cloud PaaS that enables rapid development and deployment of microservices-based applications ranging from simple stateful containerized applications to complex AI, IoT and hybrid applications across any cloud.
+
+This tutorial will guide you through the deployment of a single node KPS Service Domain on a Nutanix cluster, power it on and register it with the KPS Cloud Management Portal (CMP).
+
+After creating the Service Domain VM, note the VM IP address and ID in the VM Details panel. You will need this information to add your Service Domain in the Karbon Platform Services management console Service Domains page.
+
+## Creating and deploying a KPS Service Domain
+
+1. Log on as an administrator to your cluster's web console through the Chrome web browser.
+2. Click Home > VM, then click Create VM.
+
+The Create VM dialog box appears. You might need to scroll down to see everything that is displayed here.
+
+
 
 This tutorial will guide you through the deployment and update of a sample Kubernetes Application using KPS. The application is deployed to a KPS Service Domain for execution. This tutorial assumes your Service Domain has already been deployed using steps from the <a href="https://portal.nutanix.com/page/documents/details?targetId=Karbon-Platform-Services-Admin-Guide:ks-service-domain-manage-c.html">Karbon Platform Services Admin Guide</a> and that direct network connectivity between the Service Domain and your workstation is configured (to view sample web app output). Access to the Admin Guide is provided via the My Nutanix Portal and requires an account to login.
 
