@@ -55,7 +55,7 @@ everything that is displayed here.
 4. Click Add Disk to add the uploaded Karbon Platform Services image file.
 
 |    
-.. figure:: img/edge-vm-create2.png
+.. figure:: img/edge-vm-create2-add-disk.png
    :alt: VM create 02   
 
    **Figure. Add Disk Dialog**
