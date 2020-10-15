@@ -43,11 +43,8 @@ Creating and deploying a KPS Service Domain
 The 'Create VM' dialog box appears. You might need to scroll down to see
 everything that is displayed here.
 
-#.3 Do the following in the indicated fields.
+#. Do the following in the indicated fields.
 You might require more memory and storage as determined by your applications.
-
-|
-
   * Name: Enter a name for the VM.
   * Description (optional): Enter a description for the VM.
   * Use this VM as an agent VM: Do not select. Not used in this case.
