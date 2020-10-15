@@ -89,7 +89,7 @@ The VM creation task progress appears in Tasks at the top of the web console::
 
 --------------
 
-Creating and deploying a KPS Service Domain
+Registering your service domain with KPS Cloud Management Portal (CMP)
 -------------------------------------------
 |
 
