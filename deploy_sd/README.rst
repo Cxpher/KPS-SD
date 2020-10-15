@@ -83,7 +83,7 @@ The VM creation task progress appears in Tasks at the top of the web console::
 
 8. When the VM creation task is completed (the VM is created successfully), select the new Service Domain VM in the Table view, scroll to the bottom of the VM page, and Power On the VM.
 
-Note the VM IP address and ID in the VM Details panel. You will need this information to add your Service Domain in the Karbon Platform Services management console Service Domains page.
+  * Note the VM IP address and ID in the VM Details panel. You will need this information to add your Service Domain in the Karbon Platform Services management console Service Domains page.
 
 
 This tutorial will guide you through the deployment and update of a
