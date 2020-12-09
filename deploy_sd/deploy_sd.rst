@@ -119,7 +119,7 @@ Registering the KPS Service Domain with KPS Cloud Management Portal (CMP)
   e. Click the check mark icon. To change the details, hover over the ellipses menu and click Edit
 
 |
-.. figure:: img/kpsaddsd01.png
+.. figure:: img/kpsaddsd01r2.png
    :alt: Add SD 01   
 |
 
@@ -147,7 +147,7 @@ For an example of how to use existing environment variables for a Service Domain
   * SSH Service Domain access enables you to run Kubernetes kubectl commands to help you with application development, debugging, and pod troubleshooting
 
 |
-.. figure:: img/kpsaddsd02.png
+.. figure:: img/kpsaddsd02r2.png
    :alt: Add SD 02   
 |
 
